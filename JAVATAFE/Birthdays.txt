@@ -1,5 +1,5 @@
 frank,a,b,27,10
-frank,a,b,22,10
+frank,a,b,22,1
 mary,m,n,17,3
 cain,s,d,22,6
 fred,p,o,11,2
