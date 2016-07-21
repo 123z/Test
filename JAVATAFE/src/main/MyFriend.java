@@ -9,6 +9,7 @@ public class MyFriend {
 		myFriend.setAddress("Sample Street", "Sample Suburb", "4000");
 		System.out.println("" + myFriend.getName());
 		System.out.println("" + myFriend.getStreet());
+		System.out.println("Hello world!");
 
 	}
 
